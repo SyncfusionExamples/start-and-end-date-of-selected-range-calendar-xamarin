@@ -29,7 +29,7 @@ namespace CalendarXamarin
             {
                 startDate = viewModel.SelectedRange.StartDate;
                 endDate = viewModel.SelectedRange.EndDate;
-                App.Current.MainPage.DisplayAlert(startDate.ToString(), endDate.ToString(), "OK");
+                App.Current.MainPage.DisplayAlert("StartDate" + " " + ":"+" "+ startDate.ToString(), "EndDate" + " " + ":"+"  " + endDate.ToString(),"OK");
             }
         }
         protected override void OnDetachingFrom(ContentPage bindable)
