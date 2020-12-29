@@ -1,2 +1,1 @@
-# start-and-end-date-of-selected-range-calendar-xamarin
-How to get the selected range start and end date in Xamarin.Forms Calendar (SfCalendar)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12216/how-to-get-the-start-and-end-date-of-the-selected-range-in-xamarin-forms-calendar)**
